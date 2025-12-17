@@ -6,7 +6,7 @@ Project ini adalah tugas akhir (UAS) mata kuliah Pengembangan Game. Game ini mer
 
 ### 1. Core Gameplay
 *   **Objective:** Mengumpulkan seluruh koin yang tersebar di level untuk memenangkan permainan.
-*   **Obstacle:** Rintangan yang mematikan. Jika pemain menabrak, karakter akan mati (Ragdoll physics) dan level akan restart otomatis.
+*   **Obstacle:** Rintangan yang mematikan. Jika pemain terjatuh atau menabrak, karakter akan mati (Ragdoll physics) dan level akan restart otomatis.
 *   **HUD:** Menampilkan Health Bar secara real-time.
 
 ### 2. Advanced UI System (Poin Utama)
